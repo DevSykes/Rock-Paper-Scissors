@@ -6,9 +6,9 @@ Welcome to my personal project. This game is built to practice and improve my **
 
 ## How to Play
 
-1. Choose your move: Rock ✊, Paper 🖐️, or Scissors ✌️.
+1. Choose your move: Rock, Paper, or Scissors.
 2. The computer will choose its move.
-3. See who wins! 🏆
+3. See who wins.
 
 Have fun!
 
