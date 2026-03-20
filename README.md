@@ -9,6 +9,7 @@ Welcome to my personal project. This game is built to practice and improve my **
 1. Choose your move: Rock, Paper, or Scissors.
 2. The computer will choose its move.
 3. See who wins.
+4. The game keeps track of your wins, losses, and ties with a score counter
 
 Have fun!
 
