@@ -1,4 +1,4 @@
-# ✊🖐️✌️ Rock-Paper-Scissors Game 🎮
+# ✊🖐️✌️ Rock-Paper-Scissors Game
 
 Welcome to my personal project. This game is built to practice and improve my **Python** skills.
 
